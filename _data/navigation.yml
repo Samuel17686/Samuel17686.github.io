@@ -4,9 +4,9 @@ main:
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
    - title: "Curriculum Vitae"
      url: /curriculum-vitae/
-   - title: "Posts by date"
+   - title: "Posts by Date"
      url: /
-   - title: "Posts by category"
+   - title: "Posts by Category"
      url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
