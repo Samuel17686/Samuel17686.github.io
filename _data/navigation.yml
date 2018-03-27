@@ -7,6 +7,6 @@ main:
    - title: "Posts by Date"
      url: /
    - title: "Posts by Category"
-     url: /collection-archive/
+     url: /categories/
   # - title: "Sitemap"
   #   url: /sitemap/
